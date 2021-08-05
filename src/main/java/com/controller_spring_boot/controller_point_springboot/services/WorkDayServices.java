@@ -3,8 +3,8 @@ package com.controller_spring_boot.controller_point_springboot.services;
 import java.util.List;
 import java.util.Optional;
 
-import com.controller_spring_boot.controller_point_springboot.Repository.WorkDayRepository;
 import com.controller_spring_boot.controller_point_springboot.model.Workday;
+import com.controller_spring_boot.controller_point_springboot.repository.WorkDayRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

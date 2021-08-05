@@ -2,8 +2,8 @@ package com.controller_spring_boot.controller_point_springboot.services;
 
 import java.util.List;
 
-import com.controller_spring_boot.controller_point_springboot.Repository.AccessLevelRepository;
 import com.controller_spring_boot.controller_point_springboot.model.AccessLevel;
+import com.controller_spring_boot.controller_point_springboot.repository.AccessLevelRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

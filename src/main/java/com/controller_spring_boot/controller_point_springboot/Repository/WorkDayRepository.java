@@ -1,4 +1,4 @@
-package com.controller_spring_boot.controller_point_springboot.Repository;
+package com.controller_spring_boot.controller_point_springboot.repository;
 
 import com.controller_spring_boot.controller_point_springboot.model.Workday;
 
